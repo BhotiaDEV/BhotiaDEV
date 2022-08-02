@@ -8,6 +8,7 @@
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Hi, my name is Gaurav and I am 23 years old. I have recently completed Bachelor's in Electrical Engineering from G.B. Pant university. For the past few months I have been exploring the Web development domain. Currently, I am a Full Stack Web Developer Intern at Edureka.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/BhotiaDEV/count.svg)
