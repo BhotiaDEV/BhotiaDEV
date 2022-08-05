@@ -1,13 +1,16 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+<!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)--!>
 [![Linkedin Badge](https://img.shields.io/badge/-Gaurav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-pal-752729234/)](https://www.linkedin.com/in/gaurav-pal-752729234/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Gaurav-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Gaurav-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Gaurav-yellow)](https://stackoverflow.com/users/18641500/bhotiadev)
 
+<!--
 I'm
 Full Stack Solution Architect
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+--!>
+
 Hi, my name is Gaurav and I am 23 years old. I have recently completed Bachelor's in Electrical Engineering from G.B. Pant university. For the past few months I have been exploring the Web development domain. Currently, I am a Full Stack Web Developer Intern at Edureka.
 
 
@@ -26,7 +29,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=BhotiaDEV&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BhotiaDEV/BhotiaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
