@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Gaurav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaurav-pal-752729234/)](https://www.linkedin.com/in/gaurav-pal-752729234/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Gaurav-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Gaurav-green)](https://bhotiadev.github.io/GauravProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Gaurav-yellow)](https://stackoverflow.com/users/18641500/bhotiadev)
 
 <!--
