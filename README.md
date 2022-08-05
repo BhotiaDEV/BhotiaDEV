@@ -12,7 +12,7 @@ The crossover between design and programming has always been of interest to me, 
 --!>
 
 
-Hi, my name is Gaurav and I am 23 years old. I have recently completed Bachelor's in Electrical Engineering from G.B. Pant university. For the past few months I have been exploring the Web development domain. Currently, I am a Full Stack Web Developer Intern at Edureka.
+Hi, my name is Gaurav and I am 23 years old. I have recently completed Bachelor's in Electrical Engineering from G.B. Pant university. For the past few months I have been exploring the Web development domain. Currently, I am a Full Stack Web Developer Intern at Edureka. Here, I am learning front-end development skills such as HTML5, CSS3, Javascript, ReactJS, Responsive design , UX  and database management skills such as MongoDB
 
 
 
